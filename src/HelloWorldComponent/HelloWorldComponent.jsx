@@ -5,7 +5,7 @@ function HelloWorldComponent() {
   return (
     <>
     <div className="class1">
-     Hello World
+     Hello World 1
     </div>
     <Foo />
 </>
